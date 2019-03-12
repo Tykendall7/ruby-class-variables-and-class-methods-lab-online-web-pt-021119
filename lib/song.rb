@@ -7,7 +7,7 @@ class Song
     
     def initialize
       @@count +=1
-end    
+  end    
   def self.count
     @@count
   end
